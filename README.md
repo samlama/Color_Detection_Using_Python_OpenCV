@@ -15,3 +15,4 @@ This project uses Python and OpenCV to create a real-time camera feed that detec
 #How to run: python color_detector_with_close.py -->in your terminal
 
 
+![red](https://github.com/user-attachments/assets/4154793a-3b96-493e-8a41-65c61c7694f9)
